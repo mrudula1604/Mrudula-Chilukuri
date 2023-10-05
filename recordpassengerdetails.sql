@@ -1,0 +1,2 @@
+Insert into passenger_details(Passenger_ID, Passenger_Name, Address, Mobile_Number, Email, Passport_number, Gender)
+Values (230, 'Mrudula Chilukuri', 'Begumpet', 9000851560, 'mrudula@gmail.com', 1234001, 'Female');
